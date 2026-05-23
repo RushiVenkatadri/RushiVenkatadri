@@ -2,21 +2,24 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=900&lines=ACCESS+GRANTED...;INITIALIZING+CYBERSECURITY+MODULES;WEB+SECURITY+RESEARCHER;BUG+BOUNTY+LEARNER;BURP+SUITE+%7C+PORTSWIGGER+LABS;FUTURE+SECURITY+ANALYST" />
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="700"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="260"/>
 
 </div>
 
 ---
 
-# <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="35">  Rushi Venkatadri
+# 👨‍💻 Rushi Venkatadri
 
 ```bash
 ┌──(kali㉿security)-[~/portfolio]
-└─$ uname -a
+└─$ whoami
 
-Linux | Cybersecurity | Web Security | Bug Bounty
+Rushi Venkatadri
+Cybersecurity Student
+Web Security Researcher
+Bug Bounty Learner
+Linux Enthusiast
 ```
-
 ---
 
 # ⚡ About Me
