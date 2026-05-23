@@ -137,3 +137,122 @@ System Ready.
 <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="700"/>
 
 </div>
+
+# ⚡ About Me
+
+<img align="right" alt="hacker" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+```yaml
+Name: Rushi Venkatadri
+Education: B.Tech CSE
+Focus:
+  - Web Security
+  - Access Control Vulnerabilities
+  - Authentication Vulnerabilities
+  - Bug Bounty Hunting
+  - Penetration Testing
+
+Currently Learning:
+  - Burp Suite
+  - PortSwigger Labs
+  - Linux
+  - Networking
+  - Security Research
+
+Status: Building Real-World Skills Daily
+```
+
+---
+
+# 🛠️ Arsenal
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)
+![Burp Suite](https://img.shields.io/badge/BurpSuite-000000?style=for-the-badge&logoColor=00FF41)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41)
+
+</div>
+
+---
+
+# 🧠 Current Mission
+
+```bash
+[+] Solving PortSwigger Labs
+[+] Building GitHub Security Writeups
+[+] Practicing Burp Suite
+[+] Learning Bug Bounty Methodology
+[+] Exploring Web Vulnerabilities
+```
+
+---
+
+# 🚨 Featured Repository
+
+## 🔗 Web Security Writeups
+
+```bash
+https://github.com/RushiVenkatadri/web-security-writeups
+```
+
+### Contains:
+- Access Control Labs
+- Authentication Labs
+- Burp Suite Practice
+- PortSwigger Writeups
+- Security Learning Notes
+
+---
+
+# 📜 Certifications
+
+```yaml
+[✓] Fortinet Certified Fundamentals in Cybersecurity
+[✓] Technical Introduction to Cybersecurity 3.0
+[✓] Make In-house Hacking & Pentesting Lab
+```
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RushiVenkatadri&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00FF41&text_color=00FF41&icon_color=00FF41"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RushiVenkatadri&theme=chartreuse-dark&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/RushiVenkatadri)
+
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:rushivenkatadri@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+root@kali:~# Access Granted
+Initializing Pentesting Environment...
+Loading Exploitation Modules...
+System Ready.
+```
+
+<img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="700"/>
+
+</div>
