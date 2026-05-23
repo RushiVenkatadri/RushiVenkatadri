@@ -2,8 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=900&lines=ACCESS+GRANTED...;INITIALIZING+CYBERSECURITY+MODULES;WEB+SECURITY+RESEARCHER;BUG+BOUNTY+LEARNER;BURP+SUITE+%7C+PORTSWIGGER+LABS;FUTURE+SECURITY+ANALYST" />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="260"/>
-
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="900"/>
 </div>
 
 ---
