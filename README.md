@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=900&lines=ACCESS+GRANTED...;INITIALIZING+CYBERSECURITY+MODULES;WEB+SECURITY+RESEARCHER;BUG+BOUNTY+LEARNER;BURP+SUITE+%7C+PORTSWIGGER+LABS;FUTURE+SECURITY+ANALYST" />
@@ -13,12 +12,9 @@
 
 ```bash
 ┌──(kali㉿security)-[~/portfolio]
-└─$ whoami
+└─$ uname -a
 
-Cybersecurity Student
-Web Security Learner
-Bug Bounty Hunter
-Security Research Enthusiast
+Linux | Cybersecurity | Web Security | Bug Bounty
 ```
 
 ---
@@ -53,8 +49,8 @@ Status: Building Real-World Skills Daily
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)
 ![Burp Suite](https://img.shields.io/badge/BurpSuite-000000?style=for-the-badge&logoColor=00FF41)
@@ -122,6 +118,8 @@ https://github.com/RushiVenkatadri/web-security-writeups
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/RushiVenkatadri)
+
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:rushivenkatadri@gmail.com)
 
 </div>
 
