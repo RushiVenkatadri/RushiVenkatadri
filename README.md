@@ -7,7 +7,7 @@
 
 ---
 
-# 👨‍💻 Rushi Venkatadri K
+# 👨‍💻 Rushi Venkatadri Kalyanam
 
 ```bash
 ┌──(kali㉿security)-[~/portfolio]
