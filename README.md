@@ -1,95 +1,115 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Web+Security+Researcher;Bug+Bounty+Learner;Burp+Suite+%7C+PortSwigger+Labs;Future+Security+Analyst" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=900&lines=ACCESS+GRANTED...;INITIALIZING+CYBERSECURITY+MODULES;WEB+SECURITY+RESEARCHER;BUG+BOUNTY+LEARNER;BURP+SUITE+%7C+PORTSWIGGER+LABS;FUTURE+SECURITY+ANALYST" />
+
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="700"/>
 
 </div>
 
 ---
 
-# 👨‍💻 Rushi Venkatadri
-
-🛡️ Cybersecurity Enthusiast | Web Security Learner | Bug Bounty Hunter  
-🎓 B.Tech CSE Student @ Sri Venkateswara University College of Engineering  
-⚡ Passionate about Web Application Security, Pentesting & Ethical Hacking  
-
----
-
-## 🚀 About Me
+# <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="35">  Rushi Venkatadri
 
 ```bash
-> Initializing profile...
-> Loading cybersecurity modules...
-> Burp Suite detected ✔
-> PortSwigger Labs completed ✔
-> Web Security Writeups uploaded ✔
-> Status: Learning & Improving Daily
-```
+┌──(kali㉿security)-[~/portfolio]
+└─$ whoami
 
-- 🔍 Exploring Web Application Security
-- 🧠 Solving PortSwigger Web Security Academy Labs
-- ⚔️ Practicing Access Control & Authentication vulnerabilities
-- 🛠️ Learning Burp Suite, Wireshark & Pentesting fundamentals
-- 📚 Building real cybersecurity projects & writeups
+Cybersecurity Student
+Web Security Learner
+Bug Bounty Hunter
+Security Research Enthusiast
+```
 
 ---
 
-# 🧰 Tech Stack
+# ⚡ About Me
+
+<img align="right" alt="hacker" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+```yaml
+Name: Rushi Venkatadri
+Education: B.Tech CSE
+Focus:
+  - Web Security
+  - Access Control Vulnerabilities
+  - Authentication Vulnerabilities
+  - Bug Bounty Hunting
+  - Penetration Testing
+
+Currently Learning:
+  - Burp Suite
+  - PortSwigger Labs
+  - Linux
+  - Networking
+  - Security Research
+
+Status: Building Real-World Skills Daily
+```
+
+---
+
+# 🛠️ Arsenal
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
-![Burp Suite](https://img.shields.io/badge/BurpSuite-111111?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)
+![Burp Suite](https://img.shields.io/badge/BurpSuite-000000?style=for-the-badge&logoColor=00FF41)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41)
 
 </div>
 
 ---
 
-# 🛡️ Current Focus
+# 🧠 Current Mission
 
-- Web Security
-- Bug Bounty Hunting
-- Authentication Vulnerabilities
-- Access Control Vulnerabilities
-- Linux & Networking
-- Security Research
+```bash
+[+] Solving PortSwigger Labs
+[+] Building GitHub Security Writeups
+[+] Practicing Burp Suite
+[+] Learning Bug Bounty Methodology
+[+] Exploring Web Vulnerabilities
+```
 
 ---
 
-# 📂 Featured Repository
+# 🚨 Featured Repository
 
-🚨 **Web Security Writeups**
+## 🔗 Web Security Writeups
 
-🔗 https://github.com/RushiVenkatadri/web-security-writeups
+```bash
+https://github.com/RushiVenkatadri/web-security-writeups
+```
 
-Contains:
-- PortSwigger Lab Writeups
-- Burp Suite Practice
-- Access Control Vulnerabilities
+### Contains:
+- Access Control Labs
 - Authentication Labs
+- Burp Suite Practice
+- PortSwigger Writeups
 - Security Learning Notes
 
 ---
 
 # 📜 Certifications
 
-- ✅ Fortinet Certified Fundamentals in Cybersecurity
-- ✅ Technical Introduction to Cybersecurity 3.0
-- ✅ Make In-house Hacking & Pentesting Lab
+```yaml
+[✓] Fortinet Certified Fundamentals in Cybersecurity
+[✓] Technical Introduction to Cybersecurity 3.0
+[✓] Make In-house Hacking & Pentesting Lab
+```
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RushiVenkatadri&show_icons=true&theme=chartreuse-dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RushiVenkatadri&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00FF41&text_color=00FF41&icon_color=00FF41"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RushiVenkatadri&theme=chartreuse-dark"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RushiVenkatadri&theme=chartreuse-dark&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
 
 </div>
 
@@ -99,9 +119,9 @@ Contains:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)](https://github.com/RushiVenkatadri)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/RushiVenkatadri)
 
 </div>
 
@@ -109,10 +129,13 @@ Contains:
 
 <div align="center">
 
-```text
-[root@kali]# Access Granted...
+```bash
+root@kali:~# Access Granted
+Initializing Pentesting Environment...
+Loading Exploitation Modules...
+System Ready.
 ```
 
-<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="700"/>
 
 </div>
