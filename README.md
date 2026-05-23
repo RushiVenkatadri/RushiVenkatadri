@@ -127,4 +127,15 @@ https://github.com/RushiVenkatadri/web-security-writeups
 </div>
 
 ---
+<div align="center">
 
+```bash
+root@kali:~# Access Granted
+Initializing Pentesting Environment...
+Loading Exploitation Modules...
+System Ready.
+```
+
+<img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="700"/>
+
+</div>
