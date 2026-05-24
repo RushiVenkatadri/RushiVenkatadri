@@ -27,7 +27,6 @@ Linux Enthusiast
 
 <img align="right" alt="hacker" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-⁠ yaml
 Name: Rushi Venkatadri
 Education: B.Tech CSE
 Focus:
@@ -95,7 +94,6 @@ https://github.com/RushiVenkatadri/web-security-writeups
 
 # 📜 Certifications
 
-⁠ yaml
 [✓] Fortinet Certified Fundamentals in Cybersecurity
 [✓] Technical Introduction to Cybersecurity 3.0
 [✓] Make In-house Hacking & Pentesting Lab
